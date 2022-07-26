@@ -9,7 +9,7 @@ function do_main_nav() {
     
     $pages = array (
         array('name' => 'Home.', 'url' => 'home'),
-        array('name' => 'Onehundo.', 'url' => 'onehundo'),
+        // array('name' => 'Onehundo.', 'url' => 'onehundo'),
         array('name' => 'Aboutme.', 'url' => 'aboutme'),
         array('name' => 'Legal.', 'url' => 'legal')
     );
